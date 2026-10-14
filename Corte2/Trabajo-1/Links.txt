@@ -1,0 +1,6 @@
+https://www.kaggle.com/code/samsaav27r/segunda-pr-ctica-con-numpy-y-matplotlib
+https://www.kaggle.com/code/samsaav27r/neuron1-py
+https://www.kaggle.com/code/samsaav27r/neuron1-1-py
+https://www.kaggle.com/code/samsaav27r/neuron1-2-py
+https://www.kaggle.com/code/samsaav27r/numpy-y-matplotlib
+https://www.kaggle.com/code/samsaav27r/tercera-pr-ctica-con-numpy-y-matplotlib
